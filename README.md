@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h2>🖥️ Information Technology Projects</h2>
 
 - <b> Windows Server Administration</b>
-  - [Active Directory Setup using Azure Virtual Machines](https://github.com/DevAra007/active-directory-azure-vm)
+  - [Active Directory Setup using Azure Virtual Machines](https://github.com/osmundehi/active-directory-azure-vm)
   
 - <b> Amazon Web Services AWS</b>
   - [AWS EC2 Remote Connection](https://github.com/osmundehi/aws-ec2-remote-connection)
